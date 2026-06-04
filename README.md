@@ -1,12 +1,21 @@
-## alive and existing!
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
+## 'allo, 안녕 & こにちわ！
 
-## Hack club!
+![Yaa](media/Yaa.jpg)
 
-## Languages:
+---
 
-## Tools:
+I'm ckacha, ck, or some variation of iamalive :p
 
-## Stats:
+I make random thingys and do clubs/event work for [Hack Club](https://hackclub.com).
 
+You can find my personal site [here](https://www.youtube.com/watch?v=6G82z8Ftw2U&pp=ygULbW90aCBib25nb3M%3D), make sure to stop by!
+
+Take a look at some of my pinned repos to see what I've done! 👇
+
+<details>
+<summary>Stats for funsies</summary>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ckacha&color=blue)
+
+</details>
 
