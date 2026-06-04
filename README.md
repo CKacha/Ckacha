@@ -1,6 +1,6 @@
-## 'allo, 안녕 & こにちわ！
+## 'allo, おっす & 안녕！
 
-![Yaa](media/Yaa.jpg)
+![Yaa](media/Yaa.JPG)
 
 ---
 
