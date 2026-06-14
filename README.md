@@ -1,10 +1,10 @@
-## 'allo, おっす & 안녕！
+## Allo!
 
 ![Yaa](media/Yaaa.JPG)
 
 ---
 
-I'm ckacha, ck, or some variation of iamalive :p
+I'm ckacha, ck and exist :p
 
 I make random thingys and do clubs/event work for [Hack Club](https://hackclub.com).
 
